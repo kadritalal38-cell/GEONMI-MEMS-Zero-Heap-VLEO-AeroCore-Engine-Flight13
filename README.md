@@ -25,7 +25,7 @@ This proprietary framework unlocks massive financial and strategic advantages fo
 2. **Resource Efficiency:** Optimal onboard system performance ensuring sustainable, high-reliability operations.
 3. **High ROI:** Empowering commercial operators to scale VLEO constellations with unprecedented economic efficiency.
 
-<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/d3f210fb-5ff0-4133-9c55-47b48fd3de42" />
+<img width="600" height="400" alt="Image" src="https://github.com/user-attachments/assets/fb3a44aa-3f4d-4d51-867c-232b12588a0b" />
 ---
 
 ## 🔒 Repository Status & IP Protection

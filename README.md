@@ -22,6 +22,7 @@ Rather than resisting atmospheric drag, this novel, highly adaptive structural d
 
 * **Notice:** This project is strictly intended for **Commercial Civil Applications** (e.g., high-resolution Earth observation, commercial broadband connectivity, and environmental monitoring).
 
+<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/36af7fd9-db03-450b-a09f-1a3909649f91" />
 ---
 
 ## 💼 Commercial & Investment Opportunities
